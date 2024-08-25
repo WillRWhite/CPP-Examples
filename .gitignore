@@ -31,6 +31,7 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+*.exe
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
@@ -150,6 +151,9 @@ coverage*.info
 # Visual Studio code coverage results
 *.coverage
 *.coveragexml
+
+# Visual Studio code configuration files
+.vscode/
 
 # NCrunch
 _NCrunch_*
